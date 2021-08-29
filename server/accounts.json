@@ -1,0 +1,26 @@
+[
+    {
+        "username": "ZANE",
+        "email": "ang@zane.com",
+        "password": "$2a$10$lLtb2EB0uCjfhCgkBGNe2OtC4lpaLAM1CfJgUcC5TjUrmDRbOqz6y",
+        "id": 0
+    },
+    {
+        "username": "ZOE",
+        "email": "zzz@zzzz.com",
+        "password": "$2a$10$UpBgS01tgJviq8BwSVD0r.Ce0Zn9COVDAxPNGreeD9TOcd8P3AX2K",
+        "id": 1
+    },
+    {
+        "username": "ZAME",
+        "email": "zz@zz.com",
+        "password": "$2a$10$GTBUpsNdMnoFWuAhwX8KGOMo3r01MBEBIb0NIEWlavZn/xqiXtCi.",
+        "id": 2
+    },
+    {
+        "username": "SHAWN",
+        "email": "shawn@yahoo.com",
+        "password": "$2a$10$e2jHG8CH1e4N1VksbFztUOQk2DRAOG9D1b1sV/SrimdhhEHuWw8XO",
+        "id": 3
+    }
+]
